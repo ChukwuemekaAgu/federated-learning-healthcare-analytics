@@ -10,7 +10,7 @@
 
 This project implements federated learning for healthcare claims analysis across **3 simulated hospital clients**. Instead of pooling sensitive patient data into a central server, each hospital trains locally and only shares model weight updates — preserving patient privacy while enabling collaborative learning.
 
-This is the privacy-first companion to the [centralised ML repo](https://github.com/ChukwuemekaAgu/privacy-preserving-healthcare-claims-ml).
+This is the privacy-first companion to the [centralized ML repo](https://github.com/ChukwuemekaAgu/privacy-preserving-healthcare-claims-ml).
 
 ---
 
